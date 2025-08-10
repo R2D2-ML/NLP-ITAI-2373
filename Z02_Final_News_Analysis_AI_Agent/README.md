@@ -42,8 +42,7 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 │   │   ├── feature_extractor.py
 │   │   └── text_preprocessor.py
 │   │
-│   ├── models/
-│   │   └── (empty or model files)
+│   ├── models/ # future integration
 │   │
 │   ├── multilingual/
 │   │   ├── __init__.py
@@ -52,7 +51,7 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 │   ├── utils/
 │   │   ├── __init__.py
 │   │   ├── global_.py
-│   │   └── visualisation.py
+│   │   └── visualisation.py # future integration
 │   │
 │   ├── __init__.py
 │   ├── models.py
