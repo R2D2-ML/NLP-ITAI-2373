@@ -1,15 +1,15 @@
 
-# Module 04: Text Representation - From Words to Numbers 📚 
+# 04: Text Representation - From Words to Numbers 📚 
 
 ## ITAI 2373 - Natural Language Processing
 
-## Overview
+## 📌 Overview
 
 This lab explores how computers transform human language into mathematical representations that machines can understand and process. It guided me through a journey from basic word counting to sophisticated embedding techniques used in modern AI systems.
 
 ---
 
-## Setup and Installation
+## 🔧 Setup and Installation
 
 To run this notebook, you will need to install the following libraries:
 ```bash
@@ -22,12 +22,12 @@ To run this notebook, you will need to install the following libraries:
 
 By completing this lab, I am able to:
 
-*   Explain why text must be converted to numbers for machine learning
-*   Implement Bag of Words and TF-IDF representations from scratch
-*   Apply N-gram analysis to capture word sequences
-*   Explore word embeddings and their semantic properties
-*   Compare different text representation methods
-*   Build a simple text classification system
+* ✅ Explain why text must be converted to numbers for machine learning
+* ✅ Implement Bag of Words and TF-IDF representations from scratch
+* ✅ Apply N-gram analysis to capture word sequences
+* ✅ Explore word embeddings and their semantic properties
+* ✅ Compare different text representation methods
+* ✅ Build a simple text classification system
 
 ---
 
@@ -38,7 +38,7 @@ By completing this lab, I am able to:
 
 ---
 
-## Lab Structure (5 Parts)
+## 📖 Lab Structure (5 Parts)
 
 1.  **Part 1-2: Foundations & Sparse Representations**
     *   Why text needs numerical representation
@@ -65,5 +65,5 @@ By completing this lab, I am able to:
 
 ## Conclusion and Key Takeaways
 
-- I have a strong foundational understanding of various text representation techniques, their strengths and weaknesses, and how they are applied in real-world NLP tasks.
-- I now have practical experience implementing and comparing various methods.
+- ⭐️ I have a strong foundational understanding of various text representation techniques, their strengths and weaknesses, and how they are applied in real-world NLP tasks.
+- ⭐️ I now have practical experience implementing and comparing various methods.
