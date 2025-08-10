@@ -23,6 +23,45 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 ## 🛠️ Project Structure
 
 ```
+├── Data/
+│   ├── models/
+│   │   └── best_classifier.pkl
+│   └── raw/
+│       └── BBC News Train.csv
+│
+├── Src/
+│   ├── analysis/
+│   │   ├── __init__.py
+│   │   ├── en_extractor.py
+│   │   ├── newsbot.py
+│   │   ├── sentiment_analysis.py
+│   │   └── topic_modeler.py
+│   │
+│   ├── data_processing/
+│   │   ├── __init__.py
+│   │   ├── feature_extractor.py
+│   │   └── text_preprocessor.py
+│   │
+│   ├── models/
+│   │   └── (empty or model files)
+│   │
+│   ├── multilingual/
+│   │   ├── __init__.py
+│   │   └── detect.py
+│   │
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── global_.py
+│   │   └── visualisation.py
+│   │
+│   ├── __init__.py
+│   ├── models.py
+│   ├── prompts.py
+│   └── workflow.py
+│
+├── main.py
+├── README.md
+└── requirements.txt
 
 ```
 
