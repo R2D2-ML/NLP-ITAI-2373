@@ -5,8 +5,9 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 ---
 
 # Must Download
-   ```bash
-   !python -m spacy download en_core_web_sm
+```bash
+!python -m spacy download en_core_web_sm
+```
 
 ## 🚀 Features
 
