@@ -1,5 +1,5 @@
 
-# Module 7: Sentiment and Emotion Analysis Lab
+# Module 7: Sentiment and Emotion Analysis Lab 📚 
 
 ## ITAI 2373 - Natural Language Processing
 
