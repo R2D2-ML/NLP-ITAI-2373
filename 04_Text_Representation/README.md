@@ -1,5 +1,5 @@
 
-# 📚 Module 04: Text Representation - From Words to Numbers
+# Module 04: Text Representation - From Words to Numbers 📚 
 
 ## ITAI 2373 - Natural Language Processing
 
