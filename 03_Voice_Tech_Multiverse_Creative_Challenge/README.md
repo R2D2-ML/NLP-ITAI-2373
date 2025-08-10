@@ -1,5 +1,5 @@
 
-# Assignment 03: Voice Tech in the Multiverse Creative Challenge
+# Module 03: Voice Tech in the Multiverse Creative Challenge 
 
 ## ITAI 2373 - Natural Language Processing
 
