@@ -52,7 +52,7 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 
 ---
 
-▶️ Getting Started
+## ▶️ Getting Started
 
 1. Clone the repository:
   ```bash
