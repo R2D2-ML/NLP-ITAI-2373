@@ -7,7 +7,7 @@
 
 Welcome to the Sentiment and Emotion Analysis lab! In this hands-on session, I learned how to build a complete emotion detection system that works with both text and speech. This lab connects directly to previous Module concepts and gives me practical experience with real-world emotion analysis.
 
-## Setup and Installation
+## 🔧 Setup and Installation
 
 To run this notebook, you will need to install the following libraries:
 ```bash
