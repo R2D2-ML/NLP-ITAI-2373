@@ -3,7 +3,7 @@
 
 ## ITAI 2373 - Natural Language Processing
 
-## Lab Overview
+## 📌 Lab Overview
 
 Welcome to the Sentiment and Emotion Analysis lab! In this hands-on session, I learned how to build a complete emotion detection system that works with both text and speech. This lab connects directly to previous Module concepts and gives me practical experience with real-world emotion analysis.
 
@@ -26,11 +26,11 @@ To run this notebook, you will need to install the following libraries:
 
 By the end of this lab I was able to:
 
--   Understand the differences between rule-based and ML approaches to sentiment analysis
--   Build and evaluate multiple sentiment analysis systems
--   Extract and analyze emotional features from speech
--   Create a multimodal emotion detection system
--   Critically evaluate bias and fairness in emotion detection systems
+- ✅ Understand the differences between rule-based and ML approaches to sentiment analysis
+- ✅ Build and evaluate multiple sentiment analysis systems
+- ✅ Extract and analyze emotional features from speech
+- ✅ Create a multimodal emotion detection system
+- ✅ Critically evaluate bias and fairness in emotion detection systems
 
 ## Datasets Used
 
@@ -62,8 +62,8 @@ This lab builds upon concepts from previous modules:
 
 ## Conclusion and Key Takeaways
 
-- Integration of concepts from all modules is powerful.
-- Different approaches (rule-based, ML, multimodal) have different strengths.
-- Context (including speech cues) matters in emotion detection.
-- Bias is a significant ethical risk and must be addressed.
-- Real-world deployment requires balancing factors like accuracy, complexity, and cost.
+- ⭐ Integration of concepts from all modules is powerful.
+- ⭐ Different approaches (rule-based, ML, multimodal) have different strengths.
+- ⭐ Context (including speech cues) matters in emotion detection.
+- ⭐ Bias is a significant ethical risk and must be addressed.
+- ⭐ Real-world deployment requires balancing factors like accuracy, complexity, and cost.
