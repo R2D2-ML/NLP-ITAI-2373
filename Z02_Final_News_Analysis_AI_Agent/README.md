@@ -1,11 +1,11 @@
-# Must Download
-!python -m spacy download en_core_web_sm
-
 # 📰 News Analysis ChatBot
 
 Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analyze news articles, extract insights, and provide actionable recommendations. This project combines the power of natural language processing (NLP), machine learning, and conversational AI to deliver a seamless news analysis experience.
 
 ---
+
+# Must Download
+!python -m spacy download en_core_web_sm
 
 ## 🚀 Features
 
