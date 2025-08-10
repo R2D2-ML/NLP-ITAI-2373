@@ -3,13 +3,13 @@
 
 ## ITAI 2373 - Natural Language Processing
 
-## Lab Overview
+## 📌 Lab Overview
 
 This notebook explores Part-of-Speech (POS) tagging, a fundamental Natural Language Processing task. It covers basic concepts, practical application using NLTK and SpaCy, handling real-world "messy" text, and analyzing customer service transcripts.
 
 ---
 
-## Setup and Installation
+## 🔧 Setup and Installation
 
 To run this notebook, you will need to install the following libraries:
 ```bash
@@ -19,15 +19,15 @@ To run this notebook, you will need to install the following libraries:
 
 ---
 
-## Learning Objectives
+## 🎓 Learning Objectives
 
-- Understand POS tagging fundamentals and its importance.
-- Utilize NLTK and SpaCy for text analysis and tagging.
-- Interpret and compare different POS tag sets.
-- Process and handle informal and real-world text data.
-- Apply POS tagging to analyze customer service scenarios.
-- Benchmark and compare the performance of different taggers.
-- Identify and analyze edge cases and limitations of POS taggers.
+- ✅ Understand POS tagging fundamentals and its importance.
+- ✅ Utilize NLTK and SpaCy for text analysis and tagging.
+- ✅ Interpret and compare different POS tag sets.
+- ✅ Process and handle informal and real-world text data.
+- ✅ Apply POS tagging to analyze customer service scenarios.
+- ✅ Benchmark and compare the performance of different taggers.
+- ✅ Identify and analyze edge cases and limitations of POS taggers.
 
 ---
 
@@ -37,7 +37,7 @@ This notebook utilizes built-in examples and simulated text samples for demonstr
 
 ---
 
-## Lab Structure
+## 📖 Lab Structure
 
 - **Part 1: In-Class Exercise**
     - Introduction to POS tagging.
@@ -54,10 +54,10 @@ This notebook utilizes built-in examples and simulated text samples for demonstr
 
 ## Conclusion and Key Takeaways
 
-- I gained hands-on experience with POS tagging using popular NLP libraries.
-- I learned to apply these techniques to various text types
-- I now understand the challenges of real-world data
-- I can compare the strengths and weaknesses of different taggers.
-- I understand the importance of context in POS tagging
-- I understand the trade-offs between different tag sets and taggers
-- I also understand the need for preprocessing and domain adaptation for optimal performance in real-world applications.
+- ⭐ I gained hands-on experience with POS tagging using popular NLP libraries.
+- ⭐ I learned to apply these techniques to various text types
+- ⭐ I now understand the challenges of real-world data
+- ⭐ I can compare the strengths and weaknesses of different taggers.
+- ⭐ I understand the importance of context in POS tagging
+- ⭐ I understand the trade-offs between different tag sets and taggers
+- ⭐ I also understand the need for preprocessing and domain adaptation for optimal performance in real-world applications.
