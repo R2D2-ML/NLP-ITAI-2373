@@ -5,7 +5,7 @@
 
 ## Lab Overview
 
-Welcome to the Sentiment and Emotion Analysis lab! In this hands-on session, I was able to build a complete emotion detection system that works with both text and speech. This lab connects directly to previous Module concepts and gives me practical experience with real-world emotion analysis.
+Welcome to the Sentiment and Emotion Analysis lab! In this hands-on session, I learned how to build a complete emotion detection system that works with both text and speech. This lab connects directly to previous Module concepts and gives me practical experience with real-world emotion analysis.
 
 ## Setup and Installation
 
