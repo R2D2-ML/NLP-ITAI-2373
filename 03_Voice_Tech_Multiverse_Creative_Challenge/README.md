@@ -32,7 +32,7 @@ By completing this assignment, we were able to:
 
 ### Universe Selection
 
-We had to choose **ONE** fictional universe:
+We had to choose **ONE** fictional universe: (We chose Alien Encounter)
 
 | Option | Universe | Concept |
 |--------|----------|---------|
@@ -40,8 +40,6 @@ We had to choose **ONE** fictional universe:
 | 👽 | **Alien Encounter** | Universal Translator for extraterrestrial first contact |
 | 🚀 | **Space Station** | Comms system for an international space crew |
 | 🎮 | **Gaming World** | Voice controls for an immersive VR game |
-
-We chose Alien Encounter
 
 ---
 
