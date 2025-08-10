@@ -1,5 +1,5 @@
 
-# Module 05: Part-of-Speech Tagging
+# Module 05: Part-of-Speech Tagging 📚 
 
 ## ITAI 2373 - Natural Language Processing
 
