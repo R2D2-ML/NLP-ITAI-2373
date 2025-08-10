@@ -20,11 +20,11 @@ My team and I's objective for this assignment was to **design cutting-edge voice
 
 By completing this assignment, we were able to:
 
-- Apply **fundamental audio processing concepts** to novel scenarios.
-- Design **custom preprocessing pipelines** for unique acoustic environments.
-- Analyze how **environmental factors** impact speech technology.
-- Demonstrate understanding of **speech recognition (ASR)** and **speech synthesis (TTS)**.
-- Consider the **ethical implications** of voice technology design.
+- ✅ Apply **fundamental audio processing concepts** to novel scenarios.
+- ✅ Design **custom preprocessing pipelines** for unique acoustic environments.
+- ✅ Analyze how **environmental factors** impact speech technology.
+- ✅ Demonstrate understanding of **speech recognition (ASR)** and **speech synthesis (TTS)**.
+- ✅ Consider the **ethical implications** of voice technology design.
 
 ---
 
