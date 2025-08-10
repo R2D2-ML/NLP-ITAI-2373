@@ -21,6 +21,17 @@ Welcome to the **News Analysis ChatBot**, an intelligent agent designed to analy
 ## 🛠️ Project Structure
 
 ```
+│
+├── Main.py
+├── README.md
+├── requirements.txt
+├── .env
+│
+└── Src/
+    ├── __init__.py
+    ├── models.py
+    ├── prompts.py
+    └── workflow.py
 
 ```
 
